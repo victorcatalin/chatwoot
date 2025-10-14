@@ -14,24 +14,24 @@
   },
   "THUMBNAIL": {
     "AUTHOR": {
-      "NOT_AVAILABLE": "Not available"
+      "NOT_AVAILABLE": "Nu este disponibil"
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Suntem online",
-    "OFFLINE": "Suntem plecați în acest moment",
-    "BACK_AS_SOON_AS_POSSIBLE": "We will be back as soon as possible"
+    "ONLINE": "Sunt online",
+    "OFFLINE": "Sunt plecat în acest moment",
+    "BACK_AS_SOON_AS_POSSIBLE": "Voi fi online puțin mai târziu"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "De obicei, răspunsurile în câteva minute",
-    "IN_A_FEW_HOURS": "De obicei, răspunsurile în câteva ore",
-    "IN_A_DAY": "De obicei, răspunsurile într-o zi",
-    "BACK_IN_HOURS": "We will be back online in {n} hour | We will be back online in {n} hours",
-    "BACK_IN_MINUTES": "We will be back online in {time} minutes",
-    "BACK_AT_TIME": "We will be back online at {time}",
-    "BACK_ON_DAY": "We will be back online on {day}",
-    "BACK_TOMORROW": "We will be back online tomorrow",
-    "BACK_IN_SOME_TIME": "We will be back online in some time"
+    "IN_A_FEW_MINUTES": "De obicei, răspunsund în câteva minute",
+    "IN_A_FEW_HOURS": "De obicei, răspunsund în câteva ore",
+    "IN_A_DAY": "De obicei, răspunsund într-o zi",
+    "BACK_IN_HOURS": "Voi fi online în {n} oră | Voi fi online în {n} ore",
+    "BACK_IN_MINUTES": "Voi fi online în {time} minute",
+    "BACK_AT_TIME": "Voi fi online la {time}",
+    "BACK_ON_DAY": "Voi fi online pe {day}",
+    "BACK_TOMORROW": "Voi fi online mâine",
+    "BACK_IN_SOME_TIME": "Voi fi online în câteva minute"
   },
   "DAY_NAMES": {
     "SUNDAY": "Duminică",
@@ -43,21 +43,21 @@
     "SATURDAY": "Sâmbătă"
   },
   "START_CONVERSATION": "Începe conversația",
-  "END_CONVERSATION": "Terminați conversația",
-  "CONTINUE_CONVERSATION": "Continuați conversația",
+  "END_CONVERSATION": "Termină conversația",
+  "CONTINUE_CONVERSATION": "Continuă conversația",
   "YOU": "You",
-  "START_NEW_CONVERSATION": "Începeți o conversație nouă",
-  "VIEW_UNREAD_MESSAGES": "You have unread messages",
+  "START_NEW_CONVERSATION": "Începe o conversație nouă",
+  "VIEW_UNREAD_MESSAGES": "Ai mesaje necitite",
   "UNREAD_VIEW": {
     "VIEW_MESSAGES_BUTTON": "Vezi mesajele noi",
     "CLOSE_MESSAGES_BUTTON": "Închide",
     "COMPANY_FROM": "de la",
-    "BOT": "Bot"
+    "BOT": "AI"
   },
   "BUBBLE": {
     "LABEL": "Discută cu noi"
   },
-  "POWERED_BY": "Oferit de Chatwoot",
+  "POWERED_BY": "Suport VICDesign",
   "EMAIL_PLACEHOLDER": "Te rugăm să introduci adresa de e-mail",
   "CHAT_PLACEHOLDER": "Scrie mesajul tău",
   "TODAY": "Astăzi",
@@ -79,10 +79,10 @@
         "LABEL": "Număr de telefon",
         "PLACEHOLDER": "Te rugăm să introduci numărul de telefon",
         "REQUIRED_ERROR": "Numărul de telefon este obligatoriu",
-        "DIAL_CODE_VALID_ERROR": "Please select a country code",
-        "VALID_ERROR": "Please enter a valid phone number",
+        "DIAL_CODE_VALID_ERROR": "Te rugăm să selectezi un cod de țară",
+        "VALID_ERROR": "Te rugăm să introduci un număr de telefon valid",
         "DROPDOWN_EMPTY": "Niciun rezultat găsit",
-        "DROPDOWN_SEARCH": "Search country"
+        "DROPDOWN_SEARCH": "Caută țară"
       },
       "MESSAGE": {
         "LABEL": "Mesaj",
