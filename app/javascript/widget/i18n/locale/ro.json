@@ -18,20 +18,20 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "Sunt online",
-    "OFFLINE": "Sunt plecat în acest moment",
-    "BACK_AS_SOON_AS_POSSIBLE": "Voi fi online puțin mai târziu"
+    "ONLINE": "Suntem online",
+    "OFFLINE": "Suntem plecați în acest moment",
+    "BACK_AS_SOON_AS_POSSIBLE": "Vom fi online puțin mai târziu"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "De obicei, răspunsund în câteva minute",
-    "IN_A_FEW_HOURS": "De obicei, răspunsund în câteva ore",
-    "IN_A_DAY": "De obicei, răspunsund într-o zi",
-    "BACK_IN_HOURS": "Voi fi online în {n} oră | Voi fi online în {n} ore",
-    "BACK_IN_MINUTES": "Voi fi online în {time} minute",
-    "BACK_AT_TIME": "Voi fi online la {time}",
-    "BACK_ON_DAY": "Voi fi online pe {day}",
-    "BACK_TOMORROW": "Voi fi online mâine",
-    "BACK_IN_SOME_TIME": "Voi fi online în câteva minute"
+    "IN_A_FEW_MINUTES": "De obicei, răspundem în câteva minute",
+    "IN_A_FEW_HOURS": "De obicei, răspundem în câteva ore",
+    "IN_A_DAY": "De obicei, răspundem într-o zi",
+    "BACK_IN_HOURS": "Vom fi online în {n} oră | Vom fi online în {n} ore",
+    "BACK_IN_MINUTES": "Vom fi online în {time} minute",
+    "BACK_AT_TIME": "Vom fi online la {time}",
+    "BACK_ON_DAY": "Vom fi online pe {day}",
+    "BACK_TOMORROW": "Vom fi online mâine",
+    "BACK_IN_SOME_TIME": "Vom fi online în câteva minute"
   },
   "DAY_NAMES": {
     "SUNDAY": "Duminică",
@@ -52,12 +52,12 @@
     "VIEW_MESSAGES_BUTTON": "Vezi mesajele noi",
     "CLOSE_MESSAGES_BUTTON": "Închide",
     "COMPANY_FROM": "de la",
-    "BOT": "AI"
+    "BOT": "VIC Ai"
   },
   "BUBBLE": {
     "LABEL": "Discută cu noi"
   },
-  "POWERED_BY": "Suport VICDesign",
+  "POWERED_BY": "VICDesign",
   "EMAIL_PLACEHOLDER": "Te rugăm să introduci adresa de e-mail",
   "CHAT_PLACEHOLDER": "Scrie mesajul tău",
   "TODAY": "Astăzi",
@@ -73,7 +73,7 @@
         "LABEL": "Adresa Email",
         "PLACEHOLDER": "Te rugăm să-ți introduci adresa de email",
         "REQUIRED_ERROR": "Adresa de e-mail este obligatorie",
-        "VALID_ERROR": "Vă rugăm să introduceți o adresă de e-mail validă"
+        "VALID_ERROR": "Te rugăm să introduci un număr de telefon valid"
       },
       "PHONE_NUMBER": {
         "LABEL": "Număr de telefon",
@@ -90,12 +90,12 @@
         "ERROR": "Mesaj prea scurt"
       }
     },
-    "CAMPAIGN_HEADER": "Vă rugăm să furnizați numele și e-mailul înainte de a începe conversația",
+    "CAMPAIGN_HEADER": "Te rugăm să furnizezi numele și adresa de e-mail înainte de a începe conversația",
     "IS_REQUIRED": "este obligatoriu",
     "REQUIRED": "Necesar",
-    "REGEX_ERROR": "Please provide a valid input"
+    "REGEX_ERROR": "Te rugăm să furnizezi o intrare validă"
   },
-  "FILE_SIZE_LIMIT": "Fisierul depaseste limita de {MAXIMUM_FILE_UPLOAD_SIZE} atasamente",
+  "FILE_SIZE_LIMIT": "Fișierul depășeste limita de {MAXIMUM_FILE_UPLOAD_SIZE} atașamente",
   "CHAT_FORM": {
     "INVALID": {
       "FIELD": "Câmp invalid"
@@ -107,13 +107,13 @@
     "ARIA_LABEL": "Emoji picker"
   },
   "CSAT": {
-    "TITLE": "Evaluează conversația ta",
-    "SUBMITTED_TITLE": "Vă mulțumim pentru trimiterea de rating",
-    "PLACEHOLDER": "Spune-ne mai mult..."
+    "TITLE": "Evaluează conversația",
+    "SUBMITTED_TITLE": "Îți mulțumim!",
+    "PLACEHOLDER": "Spune-ne mai multe..."
   },
   "EMAIL_TRANSCRIPT": {
     "BUTTON_TEXT": "Solicitați o transcriere a conversației",
-    "SEND_EMAIL_SUCCESS": "Transscrisul de chat a fost trimis cu succes",
+    "SEND_EMAIL_SUCCESS": "Transcrierea conversației a fost trimisă cu succes",
     "SEND_EMAIL_ERROR": "A apărut o eroare, încercați din nou"
   },
   "INTEGRATIONS": {
@@ -123,9 +123,9 @@
     }
   },
   "PORTAL": {
-    "POPULAR_ARTICLES": "Popular Articles",
+    "POPULAR_ARTICLES": "Articole Interesante",
     "VIEW_ALL_ARTICLES": "Vezi toate articolele",
-    "IFRAME_LOAD_ERROR": "There was an error loading the article, please refresh the page and try again."
+    "IFRAME_LOAD_ERROR": "A apărut o eroare la încărcarea articolului, vă rugăm să actualizați pagina și să încercați din nou."
   },
   "ATTACHMENTS": {
     "image": {
@@ -148,6 +148,6 @@
     }
   },
   "FOOTER_REPLY_TO": {
-    "REPLY_TO": "Replying to:"
+    "REPLY_TO": "Răspunde-i lui:"
   }
 }
